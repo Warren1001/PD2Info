@@ -7,7 +7,7 @@
 | [Failed to Join Game](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#failed-to-join-game) |
 | [Server Down](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#server-down) |
 | [Lost Connection to Battle.net](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#lost-connection-to-battlenet) |
-| [Stuck in Queue]() |
+| [Stuck in Queue](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#stuck-in-queue) |
 | [Realm Down / 6112]() |
 | [Connection Interrupted]() |
 | [Game Frozen / Black Walls]() |
