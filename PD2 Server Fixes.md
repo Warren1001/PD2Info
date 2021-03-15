@@ -4,7 +4,7 @@
 
 | Issues |
 | :-: |
-| [Failed to Join Game]() |
+| [Failed to Join Game](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#failed-to-join-game) |
 | [Server Down]() |
 | [Lost Connection to Battle.net]() |
 | [Stuck in Queue]() |
