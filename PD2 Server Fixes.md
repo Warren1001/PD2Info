@@ -1,7 +1,7 @@
 # Possible Fixes to Issues Regarding Servers in Project D2
 
 <p align="center">
-  <h1>Some Links:</b>
+  <h1>Some Links:</h1>
 </p>
 
 ### **Failed to Join Game**
