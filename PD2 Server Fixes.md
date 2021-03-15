@@ -17,19 +17,19 @@
 ###### The biggest issue plaguing the server. This issue happens when the server that your game was in crashed. The realm server still thinks your character is in the game because the game server did not report your character leaving the game since it crashed, so the realm server does not allow your character to join another game.
 ##### Fixes
 - On a rare occasion, creating a new character, joining a game, then going back to your main character frees your character from the void.
-- 99% of the time, you have to wait until the server that you were in restarts to let your character out of the void.
+- 99% of the time, you have to wait until the server that you were in restarts to let your character out of the void. The time it takes for the server to restart is mostly random. For the character to be released from the void, for some it's 5 minutes, for others it's 4 hours. I have yet to see anyone report anything higher than 6 hours, so that is likely the max you have to wait. Most people report 3-4h wait.
 
 ## **Server Down**
 ###### This happens for a similar reason to the "Failed to Join Game" issue. The minor difference is the realm likely thinks you're logged into the realm twice (in Vanilla, "Server Down" and "Lost Connection to Battle.net" happen when you're logged into the same account twice and both are sitting in the realm menu). Why this happens is still a mystery, but the root cause is a game server crashed, so it is effectively the same as "Failed to Join Game".
 ##### Fixes
 - On a slightly more common occasion compared to "Failed to Join Game", creating a new character, joining a game, then going back to your main character frees your character from the void.
-- Most of the time, you have to wait until the server that you were in restarts to let your character out of the void.
+- Most of the time, you have to wait until the server that you were in restarts to let your character out of the void. The time it takes for the server to restart is mostly random. For the character to be released from the void, for some it's 5 minutes, for others it's 4 hours. I have yet to see anyone report anything higher than 6 hours, so that is likely the max you have to wait. Most people report 3-4h wait.
 
 ## **Lost Connection to Battle.net**
 ###### This happens for a similar reason to the "Failed to Join Game" issue. The minor difference is the realm likely thinks you're logged into the realm twice (in Vanilla, "Server Down" and "Lost Connection to Battle.net" happen when you're logged into the same account twice and both are sitting in the realm menu). Why this happens is still a mystery, but the root cause is a game server crashed, so it is effectively the same as "Failed to Join Game".
 ##### Fixes
 - On a slightly more common occasion compared to "Failed to Join Game", creating a new character, joining a game, then going back to your main character frees your character from the void.
-- Most of the time, you have to wait until the server that you were in restarts to let your character out of the void.
+- Most of the time, you have to wait until the server that you were in restarts to let your character out of the void. The time it takes for the server to restart is mostly random. For the character to be released from the void, for some it's 5 minutes, for others it's 4 hours. I have yet to see anyone report anything higher than 6 hours, so that is likely the max you have to wait. Most people report 3-4h wait.
 
 ## **Stuck in Queue**
 ###### Queues generally only form for broken game servers. As such, you should not wait in any queues.
