@@ -9,7 +9,7 @@
 | [Lost Connection to Battle.net](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#lost-connection-to-battlenet) |
 | [Stuck in Queue](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#stuck-in-queue) |
 | [Realm Down / 6112](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#realm-down--6112) |
-| [Connection Interrupted]() |
+| [Connection Interrupted](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#connection-interrupted) |
 | [Game Frozen / Black Walls]() |
 | [Character Level Lower Than Expected]() |
 
