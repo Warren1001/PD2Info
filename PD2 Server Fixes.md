@@ -5,7 +5,7 @@
 | Issues |
 | :-: |
 | [Failed to Join Game](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#failed-to-join-game) |
-| [Server Down]() |
+| [Server Down](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#server-down) |
 | [Lost Connection to Battle.net]() |
 | [Stuck in Queue]() |
 | [Realm Down / 6112]() |
