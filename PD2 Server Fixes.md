@@ -44,7 +44,8 @@
 ## **Connection Interrupted**
 ##### Fixes
 - Sometimes this happens (especially when it is frequently) because a patch was released that you did not get. Close your game and launch from the launcher again. If your launcher says "Coming soon" for the lootfilter section, your launcher is outdated. Update your launcher from the [download page of the PD2 website](https://www.projectdiablo2.com/download).
-- There is no fix. This happens when the game server crashes. To avoid rolling back and losing progress, save and quit frequently! Save and quit after every good item, every waypoint, and every quest. Yes, it sucks to have to do this.
+- This also happens due to a bug with Whirlwind. If you are a Whirlwind Barbarian, right now it is suggested that you avoid Shenk the Overseer and the Chaos Sanctuary. Spinning in these areas will kick you and everyone else in the game. It is unknown if it is simply a state bug and you simply get booted or if it forcibly crashes the server.
+- This usually happens when the game server crashes. To avoid rolling back and losing progress, save and quit frequently! Save and quit after every good item, every waypoint, and every quest. Yes, it sucks to have to do this.
 
 ## **Game Frozen / Black Walls**
 ##### Fixes
