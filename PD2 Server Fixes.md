@@ -10,7 +10,7 @@
 | [Stuck in Queue](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#stuck-in-queue) |
 | [Realm Down / 6112](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#realm-down--6112) |
 | [Connection Interrupted](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#connection-interrupted) |
-| [Game Frozen / Black Walls]() |
+| [Game Frozen / Black Walls](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#game-frozen--black-walls) |
 | [Character Level Lower Than Expected]() |
 
 ## **Failed to Join Game**
