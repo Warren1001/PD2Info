@@ -1,6 +1,7 @@
 # Possible Fixes to Issues Regarding Servers in Project D2
 
 #### It is recommended that you read everything here! There are many useful tips that may prevent you from experiencing these issues in the future incase you have not yet experienced them. It should also be noted that not all of these fixes apply to everyone nor do they have a 100% success rate. Additionally, most of these are workarounds and not legitimate fixes. All of us have to deal with these issues. It is the best we as a community can do until the servers have a more permanent fix. Keep up to date on the `# announcements` channel in the PD2 Discord.
+
 | Issues |
 | :-: |
 | [Failed to Join Game]() |
