@@ -11,7 +11,7 @@
 | [Realm Down / 6112](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#realm-down--6112) |
 | [Connection Interrupted](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#connection-interrupted) |
 | [Game Frozen / Black Walls](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#game-frozen--black-walls) |
-| [Character Level Lower Than Expected]() |
+| [Character Level Lower Than Expected](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#character-level-lower-than-expected) |
 
 ## **Failed to Join Game**
 ###### The biggest issue plaguing the server. This issue happens when the server that your game was in crashed. The realm server still thinks your character is in the game because the game server did not report your character leaving the game since it crashed, so the realm server does not allow your character to join another game.
