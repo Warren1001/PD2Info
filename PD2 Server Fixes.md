@@ -1,8 +1,8 @@
 # Possible Fixes to Issues Regarding Servers in Project D2
 
-<p align="center">
-  <h3>Some Links:</h3>
-</p>
+<div align="center">
+  ### Some Links:
+</div>
 
 ### **Failed to Join Game**
 ###### The biggest issue plaguing the server. This issue happens when the server that your game was in crashed. The realm server still thinks your character is in the game because the game server did not report your character leaving the game since it crashed, so the realm server does not allow your character to join another game.
