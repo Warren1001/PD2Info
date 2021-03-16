@@ -17,12 +17,14 @@
 ###### The biggest issue plaguing the server. This issue happens when the server that your game was in crashed. The realm server still thinks your character is in the game because the game server did not report your character leaving the game since it crashed, so the realm server does not allow your character to join another game.
 ##### Fixes
 - On a rare occasion, creating a new character, joining a game, then going back to your main character frees your character from the void.
+- You can also try rejoining the game you were booted from and see if it changes anything.
 - 99% of the time, you have to wait until the server that you were in restarts to let your character out of the void. The time it takes for the server to restart is mostly random. For the character to be released from the void, for some it's 5 minutes, for others it's 4 hours. I have yet to see anyone report anything higher than 6 hours, so that is likely the max you have to wait. Most people report 3-4h wait.
 
 ## **Server Down / Lost Connection to Battle.net**
 ###### This happens for a similar reason to the "Failed to Join Game" issue. The minor difference is the realm likely thinks you're logged into the realm twice (in Vanilla, "Server Down" and "Lost Connection to Battle.net" happen when you're logged into the same account twice and both are sitting in the realm menu). Why this happens is still a mystery, but the root cause is a game server crashed, so it is effectively the same as "Failed to Join Game".
 ##### Fixes
 - On a slightly more common occasion compared to "Failed to Join Game", creating a new character, joining a game, then going back to your main character frees your character from the void.
+- You can also try rejoining the game you were booted from and see if it changes anything.
 - Most of the time, you have to wait until the server that you were in restarts to let your character out of the void. The time it takes for the server to restart is mostly random. For the character to be released from the void, for some it's 5 minutes, for others it's 4 hours. I have yet to see anyone report anything higher than 6 hours, so that is likely the max you have to wait. Most people report 3-4h wait.
 
 ## **Stuck in Queue**
@@ -43,7 +45,7 @@
 
 ## **Game Frozen / Black Walls**
 ##### Fixes
-- There is no fix. The game server you were in crashed. It has been reported that manually leaving the game will cause the "Failed to Join Game" bug. Wait for the server to forcibly kick you from the frozen game with "Connection Interrupted" and try joining a new game afterwards. If you are playing on Hardcore, this is a bit of a gamble. If the server full froze, you shouldn't die, but this isn't a guarantee. However, manually leaving may end up in the same result with your character and cause a "Failed to Join Game" in the event that you didn't die.
+- There is no fix. The game server you were in crashed. It seems that manually leaving the game will cause the "Failed to Join Game" bug. Wait for the server to forcibly kick you (~5 minutes) from the frozen game with "Connection Interrupted" and try joining a new game afterwards. If you are playing on Hardcore, this is a bit of a gamble. If the server full froze, you shouldn't die, but this isn't a guarantee. However, manually leaving may end up in the same result with your character and cause a "Failed to Join Game" in the event that you didn't die. If you ended up leaving manually, try rejoining the game that crashed and see if it lets you out.
 
 ## **Character Level Lower Than Expected**
 ###### This is USUALLY a visual bug. The character selection and realm screens do not update properly.
