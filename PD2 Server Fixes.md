@@ -22,6 +22,7 @@
 
 ## **Server Down / Lost Connection to Battle.net**
 ###### This happens for a similar reason to the "Failed to Join Game" issue. The minor difference is the realm likely thinks you're logged into the realm twice (in Vanilla, "Server Down" and "Lost Connection to Battle.net" happen when you're logged into the same account twice and both are sitting in the realm menu). Why this happens is still a mystery, but the root cause is a game server crashed, so it is effectively the same as "Failed to Join Game".
+###### Note: Despite the message saying so, the server is not actually down. It is a poor server message implemented by Blizzard that does not describe the situations it usually happens in. The servers are down when you see a persistent "Realm Down / 6112" message or "Unable to Connect to Battle.net" message in the main menu.
 ##### Fixes
 - On a slightly more common occasion compared to "Failed to Join Game", creating a new character, joining a game, then going back to your main character frees your character from the void.
 - You can also try rejoining the game you were booted from and see if it changes anything.
