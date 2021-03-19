@@ -45,7 +45,7 @@
 
 ## **Game Frozen / Black Walls**
 ##### Fixes
-- There is no fix. The game server you were in crashed. It seems that manually leaving the game will cause the "Failed to Join Game" bug. Wait for the server to forcibly kick you (~5 minutes) from the frozen game with "Connection Interrupted" and try joining a new game afterwards.
+- There is no fix. The game server you were in crashed. It seems that manually leaving the game will cause the "Failed to Join Game" bug. Wait for the server to forcibly kick you (~5-30 minutes) from the frozen game with "Connection Interrupted" and try joining a new game afterwards. Many have reported that while you may have to wait a while for the game to kick you, it is still significantly faster than leaving and waiting for the "Failed to Join Game" issue to fix itself.
   - If you are playing on Hardcore, you still should not leave. The reason is because if the server is frozen, the monsters aren't moving or attacking so you won't die. The only time you would die is if you died before the server actually froze. If you end up dead after not saving and exiting, you technically died before the server froze and the packets were never sent to your computer in time, so it would already be too late by the time you decide to save and exit when you notice the freeze (as the freeze means the server already will not process you leaving and your character will be in-game anyway. If you died, it was unavoidable, even if it was due to server lag).
 
 ## **Character Level Lower Than Expected**
