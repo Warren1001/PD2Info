@@ -14,7 +14,7 @@
 | [Character Level Lower Than Expected](https://github.com/Warren1001/PD2Info/blob/main/PD2%20Server%20Fixes.md#character-level-lower-than-expected) |
 
 ## **Failed to Join Game**
-###### The biggest issue plaguing the server. This issue happens when the server that your game was in crashed. The realm server still thinks your character is in the game because the game server did not report your character leaving the game since it crashed, so the realm server does not allow your character to join another game.
+###### This issue happens when the server that your game was in crashed. The realm server still thinks your character is in the game because the game server did not report your character leaving the game since it crashed, so the realm server does not allow your character to join another game.
 ##### Fixes
 - On a rare occasion, creating a new character, joining a game, then going back to your main character frees your character from the void.
 - You can also try rejoining the game you were booted from and see if it changes anything.
