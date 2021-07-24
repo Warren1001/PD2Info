@@ -42,6 +42,6 @@ This sheet will be updated constantly with new information.
       - (Unconfirmed) Someone reported that Monarchs and Razortails have an issue. I have no idea why it would. This is probably not true but if you want to test it, go for it.
       - (Unconfirmed) Items related to Uber events. Probably not the case but you can test it if you want.
 - The PlugY Uberquest is causing an issue for some people.
-  - Go to your PlugY.ini (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
+  - Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
 
 
