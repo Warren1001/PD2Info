@@ -38,7 +38,7 @@ This sheet will be updated constantly with new information.
       - `For anyone who didn't prepare Single Player characters for season 3 in time, here is a zip file with instructions inside. FOLLOW THEM CAREFULLY.
 (Doesn't include plugy support to clean that stash yet, will be added)` - sajb
     - Items that need to be dropped: Anything with Enhanced Damage %, + to Maximum Damage per Level, and maps.
-      - (Unconfirmed) This includes sets that give any of these modifiers as partial or full set bonus. One person confirmed this worked for them, would prefer multiple confirmations before fully confirming it as valid information.
+      - This includes sets that give any of these modifiers as partial or full set bonus. Whistan's Guard and Angelic Sickle are two examples. Check the wiki for all sets with partial or full bonuses with Enhanced Damage %.
       - (Unconfirmed) Someone reported that Monarchs and Razortails have an issue. I have no idea why it would. This is probably not true but if you want to test it, go for it.
       - (Unconfirmed) Items related to Uber events. Probably not the case but you can test it if you want.
 - The PlugY Uberquest is causing an issue for some people.
