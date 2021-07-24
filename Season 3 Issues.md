@@ -2,7 +2,7 @@
 
 This sheet will be updated constantly with new information.
 
-## **After installing Project Diablo 2, you get the error "Unable to execute file: Access is denied"**
+## **After installing Project Diablo 2, you get the error "Access is denied"**
 ##### Anti-virus flagged it. Usually Avast.
 - Check your anti-virus. Restore the file and then whitelist/make an exclusion for the entire PD2 folder. Then try again.
 
