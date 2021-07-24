@@ -14,7 +14,7 @@ This sheet will be updated constantly with new information.
 - Restart your launcher and launch PD2 again.
 - Your anti-virus flagged `BH.dll` or `ProjectDiablo.dll`. Usually Windows Defender.
   - Check your anti-virus. Restore the file and then whitelist/make an exclusion for the entire PD2 folder. Then try again.
-    - You can check your anti-virus by going to `Windows Settings > Update & Security > Windows Security > Virus & threat protection`
+    - You can check your anti-virus by going to clicking your Start Menu button at typing `Windows Security` and opening it, go to `Virus & threat protection`, in the recent items, find the most recent entry that says `Threat quarantined` and you should see an option to allow it through. Then add the entire PD2 folder as an exclusion to Windows Defender.
 
 ## **The launcher is stuck on updating**
 - Close your launcher. Launch it again in Admin mode.
