@@ -41,7 +41,8 @@ This sheet will be updated constantly with new information.
       - This includes sets that give any of these modifiers as partial or full set bonus. Whistan's Guard and Angelic Sickle are two examples. Check the wiki for all sets with partial or full bonuses with Enhanced Damage %.
       - (Unconfirmed) Someone reported that Monarchs and Razortails have an issue. I have no idea why it would. This is probably not true but if you want to test it, go for it.
       - (Unconfirmed) Items related to Uber events. Probably not the case but you can test it if you want.
-- The PlugY Uberquest is causing an issue for some people.
-  - Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
+
+## **The PlugY Uberquest is causing an issue for some people (context unknown)
+- Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
 
 
