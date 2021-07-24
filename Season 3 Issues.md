@@ -25,6 +25,9 @@ This sheet will be updated constantly with new information.
 - Go to your anti-virus and restore the file. Whitelist/make an exclusion for the entire PD2 folder in your anti-virus.
 - If you cannot restore the file or there is no file to restore, restart your PC. Check your anti-virus again, and whitelist/make an exclusion for the entire PD2 folder, then try installing/re-installing the launcher.
 
+## **Game crashes upon visiting a vendor**
+- Kryszard's filter had a crash issue with Thawing Potions. Restart your launcher to update the loot filter.
+
 # **For PlugY or Singleplayer players:**
 
 ## You get ANY error upon creating a new character or loading a pre-existing character
