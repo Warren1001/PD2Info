@@ -10,6 +10,7 @@ This sheet will be updated constantly with new information.
 - Your anti-virus flagged `PD2Launcher.exe`. Usually Avast.
   - Check your anti-virus. Restore the file and then whitelist/make an exclusion for the entire PD2 folder. Then try again.
 
+## **You keep getting disconnected after about 10 seconds in a game**
 ## **Ingame you get the error "Wrong game version. Update the game with the launcher"**
 - Restart your launcher and launch PD2 again.
 - Your anti-virus flagged `BH.dll` or `ProjectDiablo.dll`. Usually Windows Defender.
