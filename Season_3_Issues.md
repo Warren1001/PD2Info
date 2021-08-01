@@ -22,7 +22,7 @@ This sheet will be updated constantly with new information.
 - Close your launcher. Your anti-virus flagged `updater.exe`. Check your anti-virus, restore the file, and whitelist/make an exclusion for the entire PD2 folder.
 
 ## **Trying to uninstall the ProjectD2 Launcher gives a "Access is denied" error**
-##### Your anti-virus flagged something that belongs to PD2 and as such it won't let you delete or interact with the files, so uninstalling fails.
+###### Your anti-virus flagged something that belongs to PD2 and as such it won't let you delete or interact with the files, so uninstalling fails.
 - Go to your anti-virus and restore the file. Whitelist/make an exclusion for the entire PD2 folder in your anti-virus.
 - If you cannot restore the file or there is no file to restore, restart your PC. Check your anti-virus again, and whitelist/make an exclusion for the entire PD2 folder, then try installing/re-installing the launcher.
 
@@ -30,7 +30,7 @@ This sheet will be updated constantly with new information.
 - Kryszard's filter had a crash issue with Thawing Potions. Restart your launcher to update the loot filter.
 
 ## **Cannot press Create Game/Join Game/any button in the Realm menu**
-##### You alt-tabbed while the Settings menu ingame was open.
+###### You alt-tabbed while the Settings menu ingame was open.
 - Delete `UI.ini` from your `ProjectD2` folder and restart your launcher.
 
 # **For PlugY or Singleplayer players:**
