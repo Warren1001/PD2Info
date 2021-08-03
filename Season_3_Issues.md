@@ -41,10 +41,8 @@ This sheet will be updated constantly with new information.
     - You can install S2 [here](https://www.mediafire.com/file/xrby5sogoop5ps2/ProjectD2.Season.2.zip/file).
       - `For anyone who didn't prepare Single Player characters for season 3 in time, here is a zip file with instructions inside. FOLLOW THEM CAREFULLY.
 (Doesn't include plugy support to clean that stash yet, will be added)` - sajb
-    - Items that need to be dropped: Anything with Enhanced Damage %, + to Maximum Damage per Level, and maps.
+    - Items that need to be dropped: Anything with Enhanced Damage %, + to Maximum Damage per Level, maps, and Horadrim Scarabs.
       - This includes sets that give any of these modifiers as partial or full set bonus. Whistan's Guard and Angelic Sickle are two examples. Check the wiki for all sets with partial or full bonuses with Enhanced Damage %.
-      - (Unconfirmed) Someone reported that Monarchs and Razortails have an issue. I have no idea why it would. This is probably not true but if you want to test it, go for it.
-      - (Unconfirmed) Items related to Uber events. Probably not the case but you can test it if you want.
 
 ## **The PlugY Uberquest is causing an issue for some people (context unknown)**
 - Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
