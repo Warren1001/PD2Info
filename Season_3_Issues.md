@@ -44,3 +44,6 @@ This sheet will be updated constantly with new information.
     - Items that need to be dropped: Anything with Enhanced Damage %, + to Maximum Damage per Level, maps, and Horadrim Scarabs.
       - This includes sets that give any of these modifiers as partial or full set bonus. Whistan's Guard and Angelic Sickle are two examples. Check the wiki for all sets with partial or full bonuses with Enhanced Damage %.
 
+## **The PlugY Uberquest is causing an issue for some people (context and reasoning unknown)**
+- Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
+
