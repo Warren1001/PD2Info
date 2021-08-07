@@ -1,5 +1,10 @@
 # Season 3 Issues
 
+| Issues |
+| - |
+| []
+| []
+
 This sheet will be updated constantly with new information.
 
 ## **After installing Project Diablo 2, you get the error "Access is denied"**
