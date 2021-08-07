@@ -53,7 +53,7 @@ This sheet will be updated constantly with new information.
 ## **Failed to Join Game**
 - The game server you were in crashed. The realm server still thinks your character is in-game because the game server did not report you leaving the game since it crashed. Therefore, the realm doesn't let your character into another game. The only fix is to wait for the game server to restart and let your character out of the void.
 
-## PlugY: You get ANY error upon creating a new character or loading a pre-existing character
+## PlugY: Generic Bad File or Bad Inventory Data upon creating a new character or loading a pre-existing character
 - There is something in your shared stash or on your character that needs to be dropped before it is functional.
   - You can either take the easy route and delete the shared stash file (.sss) or make a new character OR you can install S2 to load your saves and go through items that need to be dropped.
     - You can install S2 [here](https://www.mediafire.com/file/xrby5sogoop5ps2/ProjectD2.Season.2.zip/file).
