@@ -2,8 +2,16 @@
 
 | Issues |
 | - |
-| []
-| []
+| [Launcher: "Access is denied"](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#after-installing-project-diablo-2-you-get-the-error-access-is-denied) |
+| [Launcher: Suddenly closes or disappears]() |
+| [Game: "Wrong game version" or continuous disconnect after short duration]() |
+| [Launcher: Play button is stuck on Updating]() |
+| [Launcher: Uninstalling launcher "Access is denied"]() |
+| [Game: Crashes upon visiting vendor]() |
+| [Game: Crashes upon killing Ventar the Unholy]() |
+| [Game: Cannot press Create Game/Join Game/Realm buttons]() |
+| [PlugY: Generic Bad File or Bad Inventory Data]() |
+| [PlugY: Uberquest is broken for some people]() |
 
 This sheet will be updated constantly with new information.
 
@@ -33,6 +41,9 @@ This sheet will be updated constantly with new information.
 
 ## **Game crashes upon visiting a vendor**
 - Kryszard's filter had a crash issue with Thawing Potions. Restart your launcher to update the loot filter.
+
+## **Game crashes upon killing *Ventar the Unholy* (Baal's Wave 4 Boss)**
+- One person has reported fixing this issue by installing Diablo 2/PD2 to the same drive that Windows is on.
 
 ## **Cannot press Create Game/Join Game/any button in the Realm menu**
 ###### You alt-tabbed while the Settings menu ingame was open.
