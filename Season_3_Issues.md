@@ -53,8 +53,7 @@ This sheet will be updated constantly with new information.
 - There is something in your shared stash or on your character that needs to be dropped before it is functional.
   - You can either take the easy route and delete the shared stash file (.sss) or make a new character OR you can install S2 to load your saves and go through items that need to be dropped.
     - You can install S2 [here](https://www.mediafire.com/file/xrby5sogoop5ps2/ProjectD2.Season.2.zip/file).
-      - `For anyone who didn't prepare Single Player characters for season 3 in time, here is a zip file with instructions inside. FOLLOW THEM CAREFULLY.
-(Doesn't include plugy support to clean that stash yet, will be added)` - sajb
+      - ```For anyone who didn't prepare Single Player characters for season 3 in time, here is a zip file with instructions inside. FOLLOW THEM CAREFULLY.``` - sajb
     - Items that need to be dropped: Anything with Enhanced Damage %, + to Maximum Damage per Level, maps, and Horadrim Scarabs.
       - This includes sets that give any of these modifiers as partial or full set bonus. Whistan's Guard and Angelic Sickle are two examples. Check the wiki for all sets with partial or full bonuses with Enhanced Damage %.
 
