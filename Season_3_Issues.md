@@ -10,6 +10,7 @@
 | [Game: Crashes upon visiting vendor](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#game-crashes-upon-visiting-a-vendor) |
 | [Game: Crashes upon killing Ventar the Unholy](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#game-crashes-upon-killing-ventar-the-unholy-baals-wave-4-boss) |
 | [Game: Cannot press Create Game/Join Game/Realm buttons](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#cannot-press-create-gamejoin-gameany-button-in-the-realm-menu) |
+| [Game: Failed to Join Game]() |
 | [PlugY: Generic Bad File or Bad Inventory Data](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#plugy-you-get-any-error-upon-creating-a-new-character-or-loading-a-pre-existing-character) |
 | [PlugY: Uberquest is broken for some people](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#plugy-the-plugy-uberquest-is-causing-an-issue-for-some-people-context-and-reasoning-unknown) |
 
@@ -48,6 +49,9 @@ This sheet will be updated constantly with new information.
 ## **Cannot press Create Game/Join Game/any button in the Realm menu**
 ###### You alt-tabbed while the Settings menu ingame was open.
 - Delete `UI.ini` from your `ProjectD2` folder and restart your launcher.
+
+## **Failed to Join Game**
+- The game server you were in crashed. The realm server still thinks your character is in-game because the game server did not report you leaving the game since it crashed. Therefore, the realm doesn't let your character into another game. The only fix is to wait for the game server to restart and let your character out of the void.
 
 ## PlugY: You get ANY error upon creating a new character or loading a pre-existing character
 - There is something in your shared stash or on your character that needs to be dropped before it is functional.
