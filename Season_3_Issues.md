@@ -11,7 +11,7 @@
 | [Game: Crashes upon killing Ventar the Unholy](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#game-crashes-upon-killing-ventar-the-unholy-baals-wave-4-boss) |
 | [Game: Cannot press Create Game/Join Game/Realm buttons](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#cannot-press-create-gamejoin-gameany-button-in-the-realm-menu) |
 | [Game: Failed to Join Game](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#failed-to-join-game) |
-| [PlugY: Generic Bad File or Bad Inventory Data](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#plugy-you-get-any-error-upon-creating-a-new-character-or-loading-a-pre-existing-character) |
+| [PlugY: Generic Bad File or Bad Inventory Data](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#plugy-generic-bad-file-or-bad-inventory-data-upon-creating-a-new-character-or-loading-a-pre-existing-character) |
 | [PlugY: Uberquest is broken for some people](https://github.com/Warren1001/PD2Info/blob/main/Season_3_Issues.md#plugy-the-plugy-uberquest-is-causing-an-issue-for-some-people-context-and-reasoning-unknown) |
 
 This sheet will be updated constantly with new information.
