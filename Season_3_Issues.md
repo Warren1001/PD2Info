@@ -34,9 +34,9 @@ This sheet will be updated constantly with new information.
   - You may be installing into a folder that the PD2 launcher can't recognize. This commonly happens with letters that are not in the English alphabet (such is the case for many Asian languages). Try installing to a folder with only English letters (numbers and symbols allowed by Windows are also fine).
 
 ## **The launcher is stuck on updating**
-- Close your launcher. Launch it again in Admin mode.
-- Close your launcher. Check Task Manager and see if there's a ghost Game.exe process and end it. If you don't know how, just restart your PC as this will solve that issue.
-- Close your launcher. Your anti-virus flagged `updater.exe`. Check your anti-virus, restore the file, and whitelist/make an exclusion for the entire PD2 folder.
+- Restart the launcher in Administrator mode.
+- Check Task Manager and see if there's a ghost Game.exe process and end it. If you don't know how, just restart your PC as this will solve that issue.
+- Your anti-virus flagged `updater.exe`. Check your anti-virus, restore the file, and whitelist/make an exclusion for the entire PD2 folder. Restart the launcher.
 
 ## **Trying to uninstall the ProjectD2 Launcher gives a "Access is denied" error**
 ###### Your anti-virus flagged something that belongs to PD2 and as such it won't let you delete or interact with the files, so uninstalling fails.
@@ -68,3 +68,5 @@ This sheet will be updated constantly with new information.
 ## **PlugY: The PlugY Uberquest is causing an issue for some people (context and reasoning unknown)**
 - Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
 
+
+#### If none of these solutions solved your issue or you have questions, post in the [# tech-support channel on the Project Diablo 2 Discord](https://discord.gg/MgbKSmm6Mt) detailing your issue and provide information about everything you have already tried. Please provide thorough information.
