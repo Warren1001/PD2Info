@@ -69,4 +69,4 @@ This sheet will be updated constantly with new information.
 - Go to your `PlugY.ini` (Configuration file) in your PD2 folder and set `ActiveUberQuest` to `0`.
 
 
-#### If none of these solutions solved your issue or you have questions, post in the [# tech-support channel on the Project Diablo 2 Discord](https://discord.gg/MgbKSmm6Mt) detailing your issue and provide information about everything you have already tried. Please provide thorough information.
+#### If none of these solutions solved your issue or you have questions, post in the [#tech-support channel on the Project Diablo 2 Discord](https://discord.gg/MgbKSmm6Mt) detailing your issue and provide information about everything you have already tried. Please provide thorough information.
