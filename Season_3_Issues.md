@@ -29,7 +29,9 @@ This sheet will be updated constantly with new information.
 - Your anti-virus flagged `BH.dll` or `ProjectDiablo.dll`. Usually Windows Defender.
   - Check your anti-virus. Restore the file and then whitelist/make an exclusion for the entire PD2 folder. Then try again.
     - You can check your anti-virus by going to clicking your Start Menu button and typing `Windows Security` and opening it, go to `Virus & threat protection`, in the recent items, find the most recent entry that says `Threat quarantined` and you should see an option to allow it through. Then add the entire PD2 folder as an exclusion to Windows Defender.
-- If `BH.dll` and `ProjectDiablo.dll` exist in the `ProjectD2` folder and have a file size greater than a few bytes and you are absolutely sure your anti-virus isn't the issue, then you may be running an outdated launcher. Delete the entire `ProjectD2` folder, redownload the launcher from the [Project Diablo 2 website](https://www.projectdiablo2.com/download), and install PD2 again.
+- If `BH.dll` and `ProjectDiablo.dll` exist in the `ProjectD2` folder and have a file size greater than a few bytes and you are absolutely sure your anti-virus isn't the issue, then:
+  - You may be running an outdated launcher. Delete the entire `ProjectD2` folder, redownload the launcher from the [Project Diablo 2 website](https://www.projectdiablo2.com/download), and install PD2 again.
+  - You may be installing into a folder that the PD2 Installer can't recognize. This commonly happens with letters that are not in the English alphabet (such is the case for many Asian languages). Try installing to a folder with only English letters (numbers and symbols allowed by Windows are also fine).
 
 ## **The launcher is stuck on updating**
 - Close your launcher. Launch it again in Admin mode.
@@ -46,6 +48,7 @@ This sheet will be updated constantly with new information.
 
 ## **Game crashes upon killing *Ventar the Unholy* (Baal's Wave 4 Boss)**
 - One person has reported fixing this issue by installing Diablo 2/PD2 to the same drive that Windows is on.
+- One person has reported fixing this issue by using the online installers from Blizzard. They were originally using a Diablo 2 install on a USB from the D3 Collector's Edition (or something like that). Redownload the online installers from the Blizzard site.
 
 ## **Cannot press Create Game/Join Game/any button in the Realm menu**
 ###### You alt-tabbed while the Settings menu ingame was open.
